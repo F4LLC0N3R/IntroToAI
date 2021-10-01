@@ -1,0 +1,2 @@
+# IntroToAI
+School group project 
